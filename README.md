@@ -1,4 +1,4 @@
-## Oii! Sou Pâmela, Futura Dev Front-end
+## Oii! Sou Pâmela, Futura Dev
 
 - 🌱 Estou aprendendo a ser uma Desenvolvedora Front-End
 - 🤔 Procuro um estágio
