@@ -1,7 +1,5 @@
 ## Oii! Sou Pâmela, Futura Dev
 
-- 🌱 Estou aprendendo a ser uma Desenvolvedora Front-End
-- 🤔 Procuro um estágio
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
