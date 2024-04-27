@@ -1,7 +1,6 @@
 ## Oii! Sou Pâmela, blz?
 
-- 😄 Pronomes: Ela/Dela
-  Trabalho na Age Technology como Dev Junior FullSatck. Participei da formação #SouSoc, entrei como Trainee e após 1 ano na empresa virei Junior.
+- 😄 Trabalho na Age Technology como Dev Junior FullSatck. Participei da formação #SouSoc, entrei como Trainee e após 1 ano na empresa virei Junior.
 
 <div align="center">
   <a href="https://github.com/PamelaOli">
